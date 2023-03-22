@@ -1,0 +1,27 @@
+body{
+    background-color:darkslategrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    width: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:orange;
+    text-align: center;
+}
+audio:hover{
+    padding: 50px;
+    margin: 50px;
+    transition: 1s all;
+}

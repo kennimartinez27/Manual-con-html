@@ -1,0 +1,28 @@
+
+a{
+    color: black;
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(255, 81, 0);
+    text-align: center;
+}
+#Cajas{
+    height: 100%;
+    background-color: red;
+}
+
+#caja1{
+    width:300%;
+    float:left;
+    margin-right:100px;
+    background-color: rgb(255, 251, 0);
+    color:black;
+}
+#caja2{
+    width:300px;
+    float: left;
+    background-color: rgb(32, 238, 32);
+    color:black;
+}

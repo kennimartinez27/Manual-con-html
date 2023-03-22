@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(250, 100, 0);
+    text-align: center;
+}
+.caja1{
+	width: 220px;
+	margin-left: auto;
+	margin-right: auto;
+    background-color:blue;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: last baseline;
+    align-items: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+.caja2{
+	width: 220px;
+    margin-left: auto;
+	margin-right: auto;
+    background-color:red;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: last baseline;
+    align-items: center;
+    font-size: 40px;
+    color: aliceblue;
+}
