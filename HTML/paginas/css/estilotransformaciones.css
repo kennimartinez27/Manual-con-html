@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    color: black;
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(255, 81, 0);
+    text-align: center;
+}
+.imag1{
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    transition: 1.5s all;
+  
+    
+}
+.imag2{
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    transition: 1.5s all;
+    
+    
+}
+.imag1:hover{
+    height: 200px;
+    width: 200px;
+    transform: rotate(360deg);
+}
+.imag2:hover{
+    height: 200px;
+    width: 200px;
+    transform: scale(1.5);
+}

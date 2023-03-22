@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    display: block;
+    flex-direction: column;
+    align-items: normal;
+    background-color:darkgrey;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 5px 20px;
+    width: 50px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:orange;
+    text-align: left;
+}
+video{
+    background-color: black; 
+}
+h1{
+    text-align: center;
+}
